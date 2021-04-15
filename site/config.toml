@@ -3,16 +3,13 @@ languageCode = "en-us"
 theme = "aafu"
 
 [params]
-    title = "Aafu theme"
-    author = "Darshan Baral"
-    description = "Website title"
-    copyright = "short copyright message"
+    
 
     [params.theme]
         # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
         mainTheme = "dark"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
-        showAttribute = true
+        showAttribute = false
         singlePage = false
 
     [params.favicons]
@@ -28,9 +25,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-        tagline = "Title"
-        location = "City Name, ST"
+        name = "Kurtis Adams"
+        tagline = "Cyber Security and Engineering Intern"
+        location = "Clearwater, FL"
         photo = "profile.jpg"
 
     # Section for links to social websites
