@@ -1,0 +1,12 @@
+:root {
+  --primaryBg: #242222;
+  --primaryText: rgb(230, 225, 225);
+  --primaryLinks: #4c5cb6;
+  --secondaryBg: #272822;
+  --secondaryText: #beb9bb;
+  --secondaryLinks: #5a6edf;
+  --shadow: black;
+  --cardBg: #2c2b2b;
+  --cardText: rgb(230, 225, 225);
+  --cardLink: #5a6edf;
+}
